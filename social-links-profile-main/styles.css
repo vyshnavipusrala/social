@@ -1,0 +1,38 @@
+body{
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     background-color: black;
+}
+.rounded-image {
+    width: 120px;
+    border-radius: 10rem;
+    
+}
+h1{
+    color: aliceblue;
+}
+.box{
+    margin-left: 39%;
+    margin-right: 50%;
+    margin-top:3%;
+    width: 320px;
+    border:2px;
+    padding:1rem;
+    background-color:hsl(0, 0%, 12%);
+    border-radius: 1rem;
+}
+h5{
+    border: 2px;
+    background-color:hsl(0, 0%, 20%);
+    padding: 0.6rem;
+    border-radius:0.5rem;
+    width: 220px;
+    margin-left:16%;
+    color: aliceblue;
+    gap: 1px;;
+}
+h5:hover{
+    background-color:rgb(212, 212, 24);
+    color: black;
+}
